@@ -1,0 +1,9 @@
+img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+ul, li {
+    background: rgb(33, 33, 33);
+    color: white;
+}

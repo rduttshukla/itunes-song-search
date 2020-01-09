@@ -1,0 +1,7 @@
+{
+    "/api": {
+    "target": "https://itunes.apple.com/search",
+    "secure": false;
+    "changeOrigin": true;
+    }
+}
